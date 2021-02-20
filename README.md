@@ -4,7 +4,7 @@
 
 This repository (Homework-1) relates to the Horiseon refactored webpage for week 1 of the GT Coding Bootcamp. Instructions below were included.
 
-![Screenshot of final product](.assets/images/screenshot.png)
+![Screenshot of final product](https://github.com/BraxB/homework-1/blob/main/Assets/screenshot.png?raw=true)
 
 ### User Story
 
