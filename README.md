@@ -32,8 +32,8 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-[Repository Link](https://)
-[Deployed Application](https://)
+[Repository Link](https://github.com/BraxB/homework-1)  
+[Deployed Application](https://braxb.github.io/homework-1/)
 
 
 ## Credits
